@@ -1,0 +1,70 @@
+*{
+    list-style: none;
+}
+
+.body{
+    background-color: #eceff8;
+}
+
+.list-row{
+    margin-top: 10px;
+    margin-right: 450px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.div-list-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.date{
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.date-for{
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 600;
+}
+.hour{
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+}
+.event{
+    margin-top: 10px;
+}
+.description{
+    padding-top: 5px;
+}
+.addto{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+.img{
+    margin-bottom: 70px;
+    align-self: center;
+}
+.add-to-calendar{
+    font-size: 14px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin-top: 17px;
+}
+.title{
+    margin-left: 40px;
+    color: #1b2442;
+}
+.addto-selected{
+    border-radius: 20px;
+    background-color: #1b2442;
+    margin-bottom: 70px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+    margin-left: 250px;
+}
